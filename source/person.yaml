@@ -1,21 +1,21 @@
-name: Thomas A. Anderson
+name: Marisa "Kayla" Lomas
 # Info to show in header
-email: neo@zion.gov
-phone: (312) 555-0690
-location: Zion, Earth
+email: kayla.lomas@gmail.com
+phone: 623.332.6374
+location: Tempe, Arizona
 # Header introduction / mission statement
-intro: I carry the Matrix's source code, known as the Prime Program. This gives me the ability to freely manipulate the simulated reality of the Matrix, similar to the authority a system administrator has over a given system. I manifest these abilities as various superhuman powers.
+intro: I am hard worker with an enthusiasm for customer service. 
 #for Twitter cards:
-twitter: '@neo'
+twitter: 
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
   # - list item
-  - Hacking
-  - Creative entrepeneurship
-  - Martial arts
-  - Negotiations
-  - Hovercraft piloting
+  - Customer Service
+  - P.O.S. Systems
+  - Cash and Credit Card Handling
+  - Microsoft Office Products
+  - Banking Terminology
 # Links to include in header
 links:
   # text: http://link.com
-  '@neo': https://github.com/neo
+  
