@@ -15,4 +15,4 @@ references: true
 # Remove theme color on print
 printstyles: false
 # Show promo link under resume (you probably want to set this to false)
-promolink: false
+promolink: true
